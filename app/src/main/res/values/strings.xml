@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">uts</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profil Mahasiswa</string>
+    <string name="menu_gallery">Catatan</string>
+    <string name="menu_slideshow">Info Aplikasi</string>
+
+    <string name="profil_mhs">Profil Mahasiswa</string>
+    <string name="catatan_harian">Daftar Catatan Harian</string>
+    <string name="info_app">Tentang Aplikasi</string>
+    <string name="nama_mhs">Muhammad Elza Abiezal</string>
+    <string name="email_mhs">elza.10119081@mahasiswa.unikom.ac.id</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

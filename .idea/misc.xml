@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/drawable-v24/ic_cap.xml" value="0.184" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/drawable/ic_menu_camera.xml" value="0.184" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/drawable/side_nav_bar.xml" value="0.184" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/activity_view_pager.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/content_navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_info_app1.xml" value="0.2359375" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_info_app2.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_info_app3.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.2" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/menu/activity_navigation_drawer_drawer.xml" value="0.25" />
+        <entry key="..\:/Development/Learning/AKB/uts/app/src/main/res/menu/navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/activity_splashscreen.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/activity_view_pager.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/content_navigation_drawer.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/fragment_gallery.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/fragment_home.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/fragment_slideshow.xml" value="0.29635416666666664" />
+        <entry key="..\:/File Elza/UNIKOM/SEMESTER 6/APLIKASI KOMPUTER BERGERAK/TUGAS/uts/uts/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.29635416666666664" />
+        <entry key="..\:/Users/Elza Abiezal/AndroidStudioProjects/uts/uts/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.29635416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
